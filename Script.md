@@ -2,17 +2,26 @@
 
 ## Synopsis
 
-A young boiy discovers a hidden gate behind the zoo.
+A young boi discovers a hidden gate behind the zoo.
 Behind it, he finds a magical world of unicorns living in perfect piece and harmony where he discovers the meaning of imagination.
 
 ## Plot
 
+<<<<<<< HEAD
 Big Chungus woke to the sound of traffic, the sky was gray.
 After his typical breakfast of toast and an egge he left for school.
 Normally Big Chungus would have walked down Bleaker streat, but today there was construction and he decided to take Flanders behind the zoo.
 
 Being on time was not one of Big Chungus’s specialities today would prove to be no different.
 As he mooved slowly.
+=======
+George woke to the sound of traffic, the sky was gray.
+After his typical breakfast of toast and an egg, he left for school.
+Normally George would have walked down Bleaker streat, but today there was construction and he decided to take Flanders behind the zoo.
+
+Being on time was not one of George’s specialities and today would prove to be no different.
+As he moved slowly.
+>>>>>>> typo-fixes
 As he walked behind the zoo he could see the trees and thick floiage growing above the heavy stone wall that ran behind the zoo; and hear the sounds of animals in the distance.
 Big Chungus had heard the sound before, but today there was a new sound, sort of a cross between an angelic horn and an elephant’s trumpet.
 He stopped to listen and noticed a heavy wooden door in the zoo wall was ajar.
